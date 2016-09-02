@@ -1,4 +1,4 @@
 # bottomActionSheet
 # bottomActionSheet
 
-![baidu](http://www.baidu.com/img/bdlogo.gif)  
+![](https://pan.baidu.com/s/1hrEiFXU)  
