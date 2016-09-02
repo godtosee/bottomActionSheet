@@ -1,7 +1,7 @@
 # bottomActionSheet
 # bottomActionSheet
 
-![](https://github.com/godtosee/bottomActionSheetTests/raw/master/Logo/git_see.png)
+![](https://github.com/godtosee/bottomActionSheet/raw/master/bottomActionSheet/git_see.png)
 
 
 
