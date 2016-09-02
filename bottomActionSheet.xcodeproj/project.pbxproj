@@ -16,6 +16,7 @@
 		252CE3A41D795ED300669CE5 /* bottomActionSheetTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 252CE3A31D795ED300669CE5 /* bottomActionSheetTests.m */; };
 		252CE3AF1D795ED300669CE5 /* bottomActionSheetUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 252CE3AE1D795ED300669CE5 /* bottomActionSheetUITests.m */; };
 		252CE3BE1D795EF100669CE5 /* HCYBottomActionSheet.m in Sources */ = {isa = PBXBuildFile; fileRef = 252CE3BD1D795EF100669CE5 /* HCYBottomActionSheet.m */; };
+		252CE3C01D79869F00669CE5 /* git_see.png in Resources */ = {isa = PBXBuildFile; fileRef = 252CE3BF1D79869F00669CE5 /* git_see.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		252CE3B01D795ED300669CE5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		252CE3BC1D795EF100669CE5 /* HCYBottomActionSheet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HCYBottomActionSheet.h; sourceTree = "<group>"; };
 		252CE3BD1D795EF100669CE5 /* HCYBottomActionSheet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HCYBottomActionSheet.m; sourceTree = "<group>"; };
+		252CE3BF1D79869F00669CE5 /* git_see.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = git_see.png; path = ../bottomActionSheet/git_see.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +132,7 @@
 		252CE3A21D795ED300669CE5 /* bottomActionSheetTests */ = {
 			isa = PBXGroup;
 			children = (
+				252CE3BF1D79869F00669CE5 /* git_see.png */,
 				252CE3A31D795ED300669CE5 /* bottomActionSheetTests.m */,
 				252CE3A51D795ED300669CE5 /* Info.plist */,
 			);
@@ -250,6 +253,7 @@
 			files = (
 				252CE3991D795ED300669CE5 /* LaunchScreen.storyboard in Resources */,
 				252CE3961D795ED300669CE5 /* Assets.xcassets in Resources */,
+				252CE3C01D79869F00669CE5 /* git_see.png in Resources */,
 				252CE3941D795ED300669CE5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -502,6 +506,7 @@
 				252CE3B51D795ED300669CE5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		252CE3B61D795ED300669CE5 /* Build configuration list for PBXNativeTarget "bottomActionSheetTests" */ = {
 			isa = XCConfigurationList;
@@ -510,6 +515,7 @@
 				252CE3B81D795ED300669CE5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		252CE3B91D795ED300669CE5 /* Build configuration list for PBXNativeTarget "bottomActionSheetUITests" */ = {
 			isa = XCConfigurationList;
@@ -518,6 +524,7 @@
 				252CE3BB1D795ED300669CE5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
