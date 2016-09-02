@@ -1,5 +1,7 @@
 # bottomActionSheet
 # bottomActionSheet
 
-![action](http://pan.baidu.com/s/1hrEiFXU)
+![](https://github.com/godtosee/bottomActionSheetTests/raw/master/Logo/git_see.png)
+
+
 
