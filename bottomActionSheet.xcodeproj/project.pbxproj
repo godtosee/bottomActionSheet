@@ -108,10 +108,6 @@
 			children = (
 				252CE3BC1D795EF100669CE5 /* HCYBottomActionSheet.h */,
 				252CE3BD1D795EF100669CE5 /* HCYBottomActionSheet.m */,
-				252CE38C1D795ED300669CE5 /* AppDelegate.h */,
-				252CE38D1D795ED300669CE5 /* AppDelegate.m */,
-				252CE38F1D795ED300669CE5 /* ViewController.h */,
-				252CE3901D795ED300669CE5 /* ViewController.m */,
 				252CE3921D795ED300669CE5 /* Main.storyboard */,
 				252CE3951D795ED300669CE5 /* Assets.xcassets */,
 				252CE3971D795ED300669CE5 /* LaunchScreen.storyboard */,
@@ -132,6 +128,10 @@
 		252CE3A21D795ED300669CE5 /* bottomActionSheetTests */ = {
 			isa = PBXGroup;
 			children = (
+				252CE38C1D795ED300669CE5 /* AppDelegate.h */,
+				252CE38D1D795ED300669CE5 /* AppDelegate.m */,
+				252CE38F1D795ED300669CE5 /* ViewController.h */,
+				252CE3901D795ED300669CE5 /* ViewController.m */,
 				252CE3BF1D79869F00669CE5 /* git_see.png */,
 				252CE3A31D795ED300669CE5 /* bottomActionSheetTests.m */,
 				252CE3A51D795ED300669CE5 /* Info.plist */,
